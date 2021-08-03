@@ -1,6 +1,6 @@
 {
   "name": "woocommerce-whitebox-vue",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -22,11 +22,11 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.11.0",
     "eslint-plugin-vue": "^7.1.0",
+    "pure-cache": "^1.0.6",
     "route-parser": "^0.0.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.10",
     "vuex": "^4.0.0-0"
   },
-  "devDependencies": {},
   "description": ""
 }
